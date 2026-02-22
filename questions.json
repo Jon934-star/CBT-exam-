@@ -1,0 +1,1992 @@
+{
+  "all": [
+    {
+      "id": "CHM001",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "Hybridization is the overlapping of ___________?",
+      "options": {
+        "A": "Obitals of different energy levels",
+        "B": "Obitals of different contents",
+        "C": "Obitals of the same energy",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "Hybridization involves the mixing of atomic orbitals of the same or comparable energy to form new hybrid orbitals."
+    },
+    {
+      "id": "CHM002",
+      "difficulty": "all",
+      "topic": "Electronic Configuration",
+      "question": "The number of unpaired electrons in O2 is ___________?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "C",
+      "explanation": "According to Molecular Orbital Theory, the O2 molecule has two unpaired electrons in its degenerate anti-bonding orbitals, making it paramagnetic."
+    },
+    {
+      "id": "CHM003",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "Which one of these represent sp2 hybridization ___________?",
+      "options": {
+        "A": "CO2",
+        "B": "N2O",
+        "C": "SO2",
+        "D": "CO"
+      },
+      "correct_answer": "C",
+      "explanation": "In SO2, the central sulfur atom is bonded to two oxygen atoms and has one lone pair, requiring three hybrid orbitals (sp2)."
+    },
+    {
+      "id": "CHM004",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "Which of these is not sp3 hybridized ___________?",
+      "options": {
+        "A": "Ammonia",
+        "B": "Methane",
+        "C": "Water",
+        "D": "Carbon dioxide"
+      },
+      "correct_answer": "D",
+      "explanation": "Carbon dioxide (CO2) has two double bonds and no lone pairs on the central carbon atom, meaning it is sp hybridized and linear."
+    },
+    {
+      "id": "CHM005",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "Compounds formed by sp3d hybridization will have ___________ structure?",
+      "options": {
+        "A": "Plannar",
+        "B": "Pyramidal",
+        "C": "Angular",
+        "D": "Trigonal bypyramidal"
+      },
+      "correct_answer": "D",
+      "explanation": "sp3d hybridization involves 5 hybrid orbitals, which arrange themselves in a trigonal bipyramidal geometry to minimize repulsion."
+    },
+    {
+      "id": "CHM006",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "Which of these is plannar ___________?",
+      "options": {
+        "A": "Methane",
+        "B": "Acetylene",
+        "C": "Benzene",
+        "D": "Isobutene"
+      },
+      "correct_answer": "C",
+      "explanation": "Benzene consists of a ring of six carbon atoms, all of which are sp2 hybridized, creating a flat, planar hexagonal structure."
+    },
+    {
+      "id": "CHM007",
+      "difficulty": "all",
+      "topic": "Chemical Bonding",
+      "question": "The number of shared electrons between carbon-carbon atoms in an ethylene molecule is ___________?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "3"
+      },
+      "correct_answer": "B",
+      "explanation": "Ethylene (C2H4) contains a carbon-carbon double bond. A double bond consists of two pairs of shared electrons, totaling 4 electrons."
+    },
+    {
+      "id": "CHM008",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "The geometry and type of hybrid orbital present in the central atom in BF3 is ___________?",
+      "options": {
+        "A": "Linear, sp",
+        "B": "Trigonal plannar, sp2",
+        "C": "Tetrahedral, sp3",
+        "D": "Pyramidal, sp3"
+      },
+      "correct_answer": "B",
+      "explanation": "Boron in BF3 has 3 valence electrons and forms 3 single bonds with no lone pairs. 3 electron domains equal sp2 hybridization (trigonal planar)."
+    },
+    {
+      "id": "CHM009",
+      "difficulty": "all",
+      "topic": "Chemical Bonding",
+      "question": "The bond formed from the sharing of two pairs of electrons is ___________?",
+      "options": {
+        "A": "Single covalent bond",
+        "B": "Double covalent bond",
+        "C": "Dative bond",
+        "D": "Triple bond"
+      },
+      "correct_answer": "B",
+      "explanation": "Sharing one pair of electrons makes a single bond. Sharing two pairs (4 electrons total) makes a double covalent bond."
+    },
+    {
+      "id": "CHM010",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "The bonding between carbon atoms in diamond has ___________ configuration.",
+      "options": {
+        "A": "Tetrahydral",
+        "B": "Planar",
+        "C": "Linear",
+        "D": "Octahydral"
+      },
+      "correct_answer": "A",
+      "explanation": "In a diamond, each carbon atom forms 4 strong covalent bonds in a 3D network, which is sp3 hybridized and tetrahedral."
+    },
+    {
+      "id": "CHM011",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "___________ is the hybridization in the NH3 molecule?",
+      "options": {
+        "A": "sp",
+        "B": "sp2",
+        "C": "sp3",
+        "D": "sp3d"
+      },
+      "correct_answer": "C",
+      "explanation": "Nitrogen in Ammonia (NH3) has 3 single bonds and 1 lone pair. These 4 electron domains mean it undergoes sp3 hybridization."
+    },
+    {
+      "id": "CHM012",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "Which of these molecules is trigonal planar?",
+      "options": {
+        "A": "IF3",
+        "B": "PCI3",
+        "C": "NH3",
+        "D": "BF3"
+      },
+      "correct_answer": "D",
+      "explanation": "BF3 has a central Boron atom bonded to 3 Fluorine atoms with no lone pairs, giving it a trigonal planar geometry."
+    },
+    {
+      "id": "CHM013",
+      "difficulty": "all",
+      "topic": "Hybridisation",
+      "question": "Obitals that result from sp hybidrization have ___________ % s-character and ___________ % p-character.",
+      "options": {
+        "A": "25, 75",
+        "B": "75, 25",
+        "C": "20, 80",
+        "D": "50, 50"
+      },
+      "correct_answer": "D",
+      "explanation": "An 'sp' hybrid orbital is made from one 's' orbital and one 'p' orbital, making it exactly half (50%) s-character and half (50%) p-character."
+    },
+    {
+      "id": "CHM014",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "An atom has atomic number 20 and contains 30 neutrons in its nucleus; what is the number of electrons in the shell?",
+      "options": {
+        "A": "40",
+        "B": "20",
+        "C": "30",
+        "D": "50"
+      },
+      "correct_answer": "B",
+      "explanation": "In a neutral atom, the number of electrons is equal to the number of protons, which is given by the atomic number (20)."
+    },
+    {
+      "id": "CHM015",
+      "difficulty": "all",
+      "topic": "Chemical Bonding",
+      "question": "An element X has two electrons in its outer shell while Y has six. The compound formed by X and Y has the formula ___________?",
+      "options": {
+        "A": "X2Y",
+        "B": "XY2",
+        "C": "XY3",
+        "D": "XY"
+      },
+      "correct_answer": "D",
+      "explanation": "X needs to lose 2 electrons to be stable (Valency = +2). Y needs to gain 2 electrons (Valency = -2). They pair up 1-to-1 to balance out, forming XY."
+    },
+    {
+      "id": "CHM016",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "How many electrons are in the Cl-?",
+      "options": {
+        "A": "18",
+        "B": "10",
+        "C": "17",
+        "D": "15"
+      },
+      "correct_answer": "A",
+      "explanation": "A neutral Chlorine (Cl) atom has 17 electrons. The negative charge in Cl- indicates it has gained 1 electron, bringing the total to 18."
+    },
+    {
+      "id": "CHM017",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "All the following are diatomic elemnts except ___________?",
+      "options": {
+        "A": "Chlorine",
+        "B": "Sodium",
+        "C": "Nitrogen",
+        "D": "Oxygen"
+      },
+      "correct_answer": "B",
+      "explanation": "Sodium is a metal that exists as individual atoms in a lattice, whereas Chlorine, Nitrogen, and Oxygen naturally exist as diatomic molecules (Cl2, N2, O2)."
+    },
+    {
+      "id": "CHM018",
+      "difficulty": "all",
+      "topic": "Electronic Configuration",
+      "question": "Which of the following is the electronic configuration of sodium (Na - 11)?",
+      "options": {
+        "A": "3s2 2s2 2p6 3d1",
+        "B": "1s2 2s2 2p6 3d1",
+        "C": "3s2 2s2 2p6 3s1",
+        "D": "1s2 2s2 2p6 3s1"
+      },
+      "correct_answer": "D",
+      "explanation": "Sodium has 11 electrons. Following the Aufbau principle: 1s holds 2, 2s holds 2, 2p holds 6. The remaining 1 goes to the 3s orbital."
+    },
+    {
+      "id": "CHM019",
+      "difficulty": "all",
+      "topic": "Electronic Configuration",
+      "question": "Which of the following orbital is not possible ___________?",
+      "options": {
+        "A": "2s1",
+        "B": "2p3",
+        "C": "1p2",
+        "D": "3d5"
+      },
+      "correct_answer": "C",
+      "explanation": "The first energy level (n=1) only has an 's' subshell. Therefore, a '1p' orbital does not exist."
+    },
+    {
+      "id": "CHM020",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "Which of the following is true?",
+      "options": {
+        "A": "Electrons are positively charged",
+        "B": "neutrons are responsible for chemical reactions",
+        "C": "number of protons are the same as atomic number",
+        "D": "neutrons and electrons are the same"
+      },
+      "correct_answer": "C",
+      "explanation": "The atomic number of an element is strictly defined by the number of protons in its nucleus."
+    },
+    {
+      "id": "CHM021",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "Which of the following is not true about isotopes?",
+      "options": {
+        "A": "Atomic numbers are the same",
+        "B": "number of neutrons are the same",
+        "C": "number of protons are the same",
+        "D": "All of the above"
+      },
+      "correct_answer": "B",
+      "explanation": "Isotopes are atoms of the same element (same protons and atomic number) but with a DIFFERENT number of neutrons."
+    },
+    {
+      "id": "CHM022",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "The particle without a charge is ___________?",
+      "options": {
+        "A": "Proton",
+        "B": "molecule",
+        "C": "electron",
+        "D": "neutron"
+      },
+      "correct_answer": "D",
+      "explanation": "Neutrons are neutral subatomic particles (no charge) found in the nucleus of an atom."
+    },
+    {
+      "id": "CHM023",
+      "difficulty": "all",
+      "topic": "Stoichiometry",
+      "question": "Find the percentage composition of carbon in CaCO3 (Ca=40, C=12, O=16)",
+      "options": {
+        "A": "14%",
+        "B": "20%",
+        "C": "12%",
+        "D": "40%"
+      },
+      "correct_answer": "C",
+      "explanation": "Molar mass of CaCO3 = 40 + 12 + (3*16) = 100g/mol. Carbon makes up 12g. Percentage = (12/100) * 100% = 12%."
+    },
+    {
+      "id": "CHM024",
+      "difficulty": "all",
+      "topic": "General Chemistry",
+      "question": "Vitamin B12 has a molecular formular that is C63H88CoN14O14P; which of the following is present in Vitamin B12 ___________?",
+      "options": {
+        "A": "Nickel",
+        "B": "Potassium",
+        "C": "Calcium",
+        "D": "Phosphorus"
+      },
+      "correct_answer": "D",
+      "explanation": "The chemical symbol 'P' in the formula C63H88CoN14O14P stands for Phosphorus."
+    },
+    {
+      "id": "CHM025",
+      "difficulty": "all",
+      "topic": "Intermolecular Forces",
+      "question": "Intermolecular forces are responsible for physical and chemical properties of ___________?",
+      "options": {
+        "A": "Matter",
+        "B": "Solids",
+        "C": "Liquids",
+        "D": "Gases"
+      },
+      "correct_answer": "A",
+      "explanation": "Intermolecular forces determine macroscopic physical properties (like boiling point, state, and viscosity) of all forms of matter."
+    },
+    {
+      "id": "CHM026",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "Electrons are ___________ charged?",
+      "options": {
+        "A": "Positively",
+        "B": "Neutrally",
+        "C": "Negatively",
+        "D": "Doubly"
+      },
+      "correct_answer": "C",
+      "explanation": "Electrons are subatomic particles that carry a negative electrical charge."
+    },
+    {
+      "id": "CHM027",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "In a neutral atom, the number of protons ___________ the number electrons.",
+      "options": {
+        "A": "opposite",
+        "B": "neutral",
+        "C": "cancels",
+        "D": "equals"
+      },
+      "correct_answer": "D",
+      "explanation": "A neutral atom has no net charge, meaning the positive charges (protons) must exactly equal the negative charges (electrons)."
+    },
+    {
+      "id": "CHM028",
+      "difficulty": "all",
+      "topic": "Electronic Configuration",
+      "question": "The filling of electrons into orbitaals is in accordance with ___________ principles?",
+      "options": {
+        "A": "Pauli",
+        "B": "Atomic",
+        "C": "Uncertainty",
+        "D": "Aufbau"
+      },
+      "correct_answer": "D",
+      "explanation": "The Aufbau principle states that electrons fill lower-energy atomic orbitals before filling higher-energy ones."
+    },
+    {
+      "id": "CHM029",
+      "difficulty": "all",
+      "topic": "Electronic Configuration",
+      "question": "Unpaired electrons must have ___________ spin?",
+      "options": {
+        "A": "equal",
+        "B": "low",
+        "C": "high",
+        "D": "parallel"
+      },
+      "correct_answer": "D",
+      "explanation": "According to Hund's Rule, electrons filling degenerate orbitals do so singly with parallel spins before they begin to pair up."
+    },
+    {
+      "id": "CHM030",
+      "difficulty": "all",
+      "topic": "Electronic Configuration",
+      "question": "An orbital is characterized by ___________ quantum numbers?",
+      "options": {
+        "A": "one",
+        "B": "two",
+        "C": "three",
+        "D": "four"
+      },
+      "correct_answer": "D",
+      "explanation": "An electron's exact state is described by four quantum numbers: principal (n), azimuthal (l), magnetic (ml), and spin (ms)."
+    },
+    {
+      "id": "CHM031",
+      "difficulty": "all",
+      "topic": "Periodicity",
+      "question": "The modern periodic table are arranged into four ___________?",
+      "options": {
+        "A": "rows",
+        "B": "columns",
+        "C": "tablets",
+        "D": "blocks"
+      },
+      "correct_answer": "D",
+      "explanation": "The periodic table is divided into four main blocks based on electron configuration: s-block, p-block, d-block, and f-block."
+    },
+    {
+      "id": "CHM032",
+      "difficulty": "all",
+      "topic": "Periodicity",
+      "question": "The representative elements are the s and ___________ blocks?",
+      "options": {
+        "A": "d",
+        "B": "f",
+        "C": "p",
+        "D": "o"
+      },
+      "correct_answer": "C",
+      "explanation": "Representative elements belong to the s-block (Groups 1 and 2) and the p-block (Groups 13 to 18)."
+    },
+    {
+      "id": "CHM033",
+      "difficulty": "all",
+      "topic": "Periodicity",
+      "question": "The horizontal rows in the periodic table is called ___________?",
+      "options": {
+        "A": "group",
+        "B": "period",
+        "C": "block",
+        "D": "area"
+      },
+      "correct_answer": "B",
+      "explanation": "Horizontal rows are periods, while vertical columns are groups or families."
+    },
+    {
+      "id": "CHM034",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "When an atom gains an electron, it becomes ___________ charged?",
+      "options": {
+        "A": "negatively charged",
+        "B": "positively charged",
+        "C": "neutraly",
+        "D": "singly"
+      },
+      "correct_answer": "A",
+      "explanation": "Electrons carry a negative charge. Gaining electrons gives the atom an excess of negative charge, creating an anion."
+    },
+    {
+      "id": "CHM035",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "Which of the following does not affect rate of reaction ___________?",
+      "options": {
+        "A": "collision of reactants",
+        "B": "equilibrium constant",
+        "C": "allignment of reactants",
+        "D": "energy of activation"
+      },
+      "correct_answer": "B",
+      "explanation": "The equilibrium constant (Kc) describes the position of equilibrium, not how fast the reaction reaches it. Collisions, alignment, and energy directly affect the rate."
+    },
+    {
+      "id": "CHM036",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "Activation energy is defined as ___________?",
+      "options": {
+        "A": "energy to break bonds",
+        "B": "energy at equilibrium",
+        "C": "energy to form bonds",
+        "D": "minimum amount of energy required to break bonds between atoms"
+      },
+      "correct_answer": "D",
+      "explanation": "Activation energy is the minimum 'spark' or energy hump that reactants must overcome before they can transform into products."
+    },
+    {
+      "id": "CHM037",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "Which of the following does not affect reaction rates ___________?",
+      "options": {
+        "A": "change in temperature",
+        "B": "change in concentration of reactants and products",
+        "C": "addition of catalysts",
+        "D": "change in concentration of products only"
+      },
+      "correct_answer": "D",
+      "explanation": "The rate of the forward reaction depends primarily on the concentration of the reactants, not the products."
+    },
+    {
+      "id": "CHM038",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "Choose the incorrect statement, acids ___________",
+      "options": {
+        "A": "taste sour",
+        "B": "change red litmus paper blue",
+        "C": "are corrosive",
+        "D": "become less acidic on mixing with bases"
+      },
+      "correct_answer": "B",
+      "explanation": "Acids change blue litmus paper RED. Bases change red litmus paper BLUE."
+    },
+    {
+      "id": "CHM039",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "A base is a substance which furnishes ___________?",
+      "options": {
+        "A": "hydroxide ions [OH-]",
+        "B": "hydrogen ions [H+]",
+        "C": "chloride ions",
+        "D": "carbonium ions"
+      },
+      "correct_answer": "A",
+      "explanation": "According to the Arrhenius concept, a base is a substance that dissociates in water to yield hydroxide [OH-] ions."
+    },
+    {
+      "id": "CHM040",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "Indicators act assignal for ___________?",
+      "options": {
+        "A": "presnce of thermal energy for matter",
+        "B": "presence of salts in a medium",
+        "C": "presence of acids or bases",
+        "D": "All of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "Chemical indicators are substances that change color to signal the presence of an acid or a base in a solution."
+    },
+    {
+      "id": "CHM041",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "Substances that show one colour in an acidic medium and another colour in a basic medium are called ___________?",
+      "options": {
+        "A": "salt-base indicators",
+        "B": "acid-salt indicators",
+        "C": "double colour indicators",
+        "D": "acid-base indicators"
+      },
+      "correct_answer": "D",
+      "explanation": "Acid-base indicators are halochromic chemical compounds that change color depending on the pH of the medium."
+    },
+    {
+      "id": "CHM042",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "Phenolphthalein turns colourless in ___________?",
+      "options": {
+        "A": "basic solution",
+        "B": "neutral solution",
+        "C": "salt solution",
+        "D": "lime water"
+      },
+      "correct_answer": "B",
+      "explanation": "Phenolphthalein is naturally colorless and remains colorless in acidic or neutral solutions. It turns pink in basic solutions."
+    },
+    {
+      "id": "CHM043",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "Which of the following substances is acidic ___________?",
+      "options": {
+        "A": "lime water",
+        "B": "soft drinks",
+        "C": "soap solution",
+        "D": "caustic soda solution"
+      },
+      "correct_answer": "B",
+      "explanation": "Soft drinks contain dissolved carbon dioxide (carbonic acid) and often phosphoric or citric acids, making them highly acidic."
+    },
+    {
+      "id": "CHM044",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "What happens when a drop of tumeric solution is added to soap solution?",
+      "options": {
+        "A": "it turns red",
+        "B": "it turns colourless",
+        "C": "it turns pink",
+        "D": "it turns blue"
+      },
+      "correct_answer": "A",
+      "explanation": "Turmeric is a natural indicator. Soap is basic. Turmeric changes from yellow to a deep red color in the presence of a base."
+    },
+    {
+      "id": "CHM045",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "Basic hydroxide which is soluble in water are known as ___________?",
+      "options": {
+        "A": "inorganic salt",
+        "B": "organic salt",
+        "C": "organic base",
+        "D": "an alkali"
+      },
+      "correct_answer": "D",
+      "explanation": "An alkali is specifically defined as a basic, ionic salt of an alkali metal or alkaline earth metal element that is completely soluble in water."
+    },
+    {
+      "id": "CHM046",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "A salt has a net charge of ___________?",
+      "options": {
+        "A": "+1",
+        "B": "-1",
+        "C": "0",
+        "D": "none of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "A salt is an ionic compound composed of positive cations and negative anions, so the product is electrically neutral (net charge 0)."
+    },
+    {
+      "id": "CHM047",
+      "difficulty": "all",
+      "topic": "Periodic Table",
+      "question": "Which is an inert gas ___________?",
+      "options": {
+        "A": "H2",
+        "B": "O2",
+        "C": "C3H8",
+        "D": "Xe"
+      },
+      "correct_answer": "D",
+      "explanation": "Xenon (Xe) is a Group 18 element, a noble gas. It has a full valence shell and is therefore chemically inert."
+    },
+    {
+      "id": "CHM048",
+      "difficulty": "all",
+      "topic": "Kinetic Theory",
+      "question": "In which of the following is translational motion not allowed ___________?",
+      "options": {
+        "A": "liquids",
+        "B": "solids",
+        "C": "gases",
+        "D": "liquids and gases"
+      },
+      "correct_answer": "B",
+      "explanation": "In solids, particles are held tightly in a fixed lattice structure. They can only vibrate in place, they cannot move around freely (translate)."
+    },
+    {
+      "id": "CHM049",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "PV=nRT is the mathematical statement of ___________ law?",
+      "options": {
+        "A": "Boyles",
+        "B": "Charles",
+        "C": "ideal gas",
+        "D": "none of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "The Ideal Gas Law combines Boyle's, Charles's, and Avogadro's laws into one comprehensive formula: PV = nRT."
+    },
+    {
+      "id": "CHM050",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "Liquids and ___________ are called fluids",
+      "options": {
+        "A": "solids",
+        "B": "gases",
+        "C": "atoms",
+        "D": "ions"
+      },
+      "correct_answer": "B",
+      "explanation": "A fluid is any substance that continually deforms (flows) under an applied shear stress. Both liquids and gases are fluids."
+    },
+    {
+      "id": "CHM051",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "At 10 degree celsius a gas occupied 75 cubic centimeters; what would be its volume at 20 degree celsius?",
+      "options": {
+        "A": "150 cm3",
+        "B": "75 cm3",
+        "C": "20 cm3",
+        "D": "77.7 cm3"
+      },
+      "correct_answer": "D",
+      "explanation": "Use Charles's Law (V1/T1 = V2/T2). Convert to Kelvin! T1 = 283K, T2 = 293K. (75 / 283) * 293 = 77.65 cm3."
+    },
+    {
+      "id": "CHM052",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "An ideal gas cannot be ___________ because the gaseous molecule has no intermolecular attraction",
+      "options": {
+        "A": "liquefied",
+        "B": "solidified",
+        "C": "mixed",
+        "D": "sublimed"
+      },
+      "correct_answer": "A",
+      "explanation": "Liquefaction requires gas molecules to attract and stick to each other. Because ideal gases are assumed to have ZERO intermolecular attraction, they would never condense into a liquid."
+    },
+    {
+      "id": "CHM053",
+      "difficulty": "all",
+      "topic": "Kinetic Theory",
+      "question": "Which of these has the strongest force of cohesion?",
+      "options": {
+        "A": "solids",
+        "B": "liquids",
+        "C": "gases",
+        "D": "liquides and gases"
+      },
+      "correct_answer": "A",
+      "explanation": "Cohesion is the intermolecular attraction between like-molecules. Solids maintain a fixed shape because their cohesive forces are the strongest."
+    },
+    {
+      "id": "CHM054",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "A real gas behaves like an ideal gas under conditions of ___________ temperature and low pressure",
+      "options": {
+        "A": "low",
+        "B": "moderate",
+        "C": "high",
+        "D": "all of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "High temperature ensures molecules move too fast for attractive forces to hold them. Low pressure ensures molecules are spread far apart, making their size negligible."
+    },
+    {
+      "id": "CHM055",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "The random motion of particles in a gas as a result of collisions with sorrounding particles is called ___________?",
+      "options": {
+        "A": "diffusion",
+        "B": "osmosis",
+        "C": "vibrational motion",
+        "D": "Brownian motion"
+      },
+      "correct_answer": "D",
+      "explanation": "Brownian motion is the random, uncontrolled movement of particles in a fluid (gas or liquid) as they constantly collide with other molecules."
+    },
+    {
+      "id": "CHM056",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "Which of the following is a diatomic gas ___________?",
+      "options": {
+        "A": "hydrogen",
+        "B": "oxygen",
+        "C": "nitrogen",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "Hydrogen (H2), Oxygen (O2), and Nitrogen (N2) are all halogens/gases that naturally exist in diatomic (two-atom) molecular pairings."
+    },
+    {
+      "id": "CHM057",
+      "difficulty": "all",
+      "topic": "Kinetic Theory",
+      "question": "Which of the following support the kinetic theory of matter ___________?",
+      "options": {
+        "A": "Brownian motion",
+        "B": "diffusion",
+        "C": "osmosis",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "Brownian motion, diffusion, and osmosis are all macroscopic processes driven entirely by the constant, microscopic kinetic motion of particles."
+    },
+    {
+      "id": "CHM058",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "The equation given by the ideal Gas law is called the equation of ___________?",
+      "options": {
+        "A": "Ideal",
+        "B": "State",
+        "C": "Real",
+        "D": "Diffusion"
+      },
+      "correct_answer": "B",
+      "explanation": "The Ideal Gas Law (PV=nRT) is a thermodynamic Equation of State, which describes the state of matter under a given set of physical conditions."
+    },
+    {
+      "id": "CHM059",
+      "difficulty": "all",
+      "topic": "Radioactivity",
+      "question": "Who discovered radioactivity?",
+      "options": {
+        "A": "Einstein",
+        "B": "Henry Becquerel",
+        "C": "Rutherford",
+        "D": "Curie"
+      },
+      "correct_answer": "B",
+      "explanation": "Henri Becquerel accidentally discovered radioactivity in 1896 when he left uranium salts on a photographic plate in a dark drawer."
+    },
+    {
+      "id": "CHM060",
+      "difficulty": "all",
+      "topic": "Thermodynamics",
+      "question": "One of the following is not a branch of thermodynamics ___________?",
+      "options": {
+        "A": "classical thermodynamics",
+        "B": "equilibrium thermodynamics",
+        "C": "radioactive thermodynamics",
+        "D": "chemical thermodynamics"
+      },
+      "correct_answer": "C",
+      "explanation": "Radioactivity involves nuclear physics, not thermodynamics. Thermodynamics relates to heat and energy transfer."
+    },
+    {
+      "id": "CHM061",
+      "difficulty": "all",
+      "topic": "Radioactivity",
+      "question": "What is the unit of radioactivity?",
+      "options": {
+        "A": "Curie and Becquerel",
+        "B": "Curie and Rutherford",
+        "C": "Einstein and Ruthrford",
+        "D": "Curie and Einstein"
+      },
+      "correct_answer": "A",
+      "explanation": "The Becquerel (Bq) is the modern SI unit of radioactivity. The Curie (Ci) is the older, traditional unit."
+    },
+    {
+      "id": "CHM062",
+      "difficulty": "all",
+      "topic": "Thermodynamics",
+      "question": "Fans convert electrical energy into mechanical energy. This is explained by which law of thermodynamics ___________?",
+      "options": {
+        "A": "First law",
+        "B": "Second law",
+        "C": "Third law",
+        "D": "Zeroth law"
+      },
+      "correct_answer": "A",
+      "explanation": "The First Law of Thermodynamics (Conservation of Energy) governs the transformation of energy from one form to another without any of it being lost."
+    },
+    {
+      "id": "CHM063",
+      "difficulty": "all",
+      "topic": "Radioactivity",
+      "question": "The following are the three main types of radiations except ___________?",
+      "options": {
+        "A": "alpha particles",
+        "B": "beta particles",
+        "C": "gamma rays",
+        "D": "isotopes"
+      },
+      "correct_answer": "D",
+      "explanation": "Alpha, beta, and gamma are forms of ionizing radiation emitted from a nucleus. An isotope is simply a variant of a chemical element."
+    },
+    {
+      "id": "CHM064",
+      "difficulty": "all",
+      "topic": "Thermodynamics",
+      "question": "A region containing energy that is separated from its surroundings is called ___________?",
+      "options": {
+        "A": "surroundings",
+        "B": "system",
+        "C": "system boundary",
+        "D": "process"
+      },
+      "correct_answer": "B",
+      "explanation": "In thermodynamics, the specific area or body of matter under study is called the 'system'. Everything else is the 'surroundings'."
+    },
+    {
+      "id": "CHM065",
+      "difficulty": "all",
+      "topic": "Thermodynamics",
+      "question": "There are ___________ laws in thermodynamics?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "3",
+        "D": "2"
+      },
+      "correct_answer": "A",
+      "explanation": "There are exactly four laws of thermodynamics: the Zeroth Law, the First Law, the Second Law, and the Third Law."
+    },
+    {
+      "id": "CHM066",
+      "difficulty": "all",
+      "topic": "Thermodynamics",
+      "question": "___________ permits the transfer of mass and energy between the system and its surroundings?",
+      "options": {
+        "A": "Closed system",
+        "B": "Isolated system",
+        "C": "Open system",
+        "D": "Mixed system"
+      },
+      "correct_answer": "C",
+      "explanation": "An open system (like a boiling pot with no lid) allows both heat (energy) and steam (matter/mass) to escape into the surroundings."
+    },
+    {
+      "id": "CHM067",
+      "difficulty": "all",
+      "topic": "Thermodynamics",
+      "question": "___________ is an example of an isolated system?",
+      "options": {
+        "A": "Piston-cylinder",
+        "B": "Steam turbine",
+        "C": "The universe",
+        "D": "Surroundings"
+      },
+      "correct_answer": "C",
+      "explanation": "An isolated system exchanges neither mass nor energy. The entire Universe is considered the ultimate isolated system because nothing exists outside it to exchange with."
+    },
+    {
+      "id": "CHM068",
+      "difficulty": "all",
+      "topic": "Thermodynamics",
+      "question": "A thermodynamic function used in measuring the degree of randomliness or disorderliness of a system?",
+      "options": {
+        "A": "Pressure",
+        "B": "Temperature",
+        "C": "Enthalpy",
+        "D": "Entropy"
+      },
+      "correct_answer": "D",
+      "explanation": "Entropy (S) is the standard thermodynamic measure of chaos, randomness, or disorder in a system."
+    },
+    {
+      "id": "CHM069",
+      "difficulty": "all",
+      "topic": "Thermodynamics",
+      "question": "The thermodynamic property whose value depends on the mass, volume, energy and enthalpy of the system is known as ___________  property?",
+      "options": {
+        "A": "extensive",
+        "B": "intensive",
+        "C": "major",
+        "D": "minor"
+      },
+      "correct_answer": "A",
+      "explanation": "Extensive properties (like mass, volume, total energy) depend entirely on the AMOUNT of matter present. Intensive properties (like temp) do not."
+    },
+    {
+      "id": "CHM070",
+      "difficulty": "all",
+      "topic": "Thermodynamics",
+      "question": "Switching on of light is the conversion of electrical energy to ___________ energy?",
+      "options": {
+        "A": "kinetic",
+        "B": "potentiall",
+        "C": "chemical",
+        "D": "light"
+      },
+      "correct_answer": "D",
+      "explanation": "A lightbulb directly converts electrical energy running through its filaments or gases into light (electromagnetic/radiant) energy."
+    },
+    {
+      "id": "CHM071",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "A catalyst speeds up reactions by providing ___________?",
+      "options": {
+        "A": "energy to break bonds",
+        "B": "alternative platform that affects reaction",
+        "C": "alternative platform that lowers activation energy",
+        "D": "alternative platform that increases the activation energy"
+      },
+      "correct_answer": "C",
+      "explanation": "A catalyst provides an entirely different chemical pathway for the reaction to occur, one that requires a much lower activation energy."
+    },
+    {
+      "id": "CHM072",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "When rate of reaction is directly proportinal to the square of the reactants, then the reaction is said to be ___________?",
+      "options": {
+        "A": "first order",
+        "B": "second order",
+        "C": "third order",
+        "D": "fourth order"
+      },
+      "correct_answer": "B",
+      "explanation": "If Rate = k[Reactant]^2, the exponent is 2. This mathematical relationship defines a second-order reaction."
+    },
+    {
+      "id": "CHM073",
+      "difficulty": "all",
+      "topic": "Equilibrium",
+      "question": "Which of these does not affect a reaction at equilibrium ___________?",
+      "options": {
+        "A": "concentration",
+        "B": "volume",
+        "C": "addition of a catalyst",
+        "D": "temperature"
+      },
+      "correct_answer": "C",
+      "explanation": "A catalyst speeds up both the forward and reverse reactions equally. It helps the system reach equilibrium faster, but does not shift the final balance."
+    },
+    {
+      "id": "CHM074",
+      "difficulty": "all",
+      "topic": "Electrochemistry",
+      "question": "How many coulomb's of electricity will be produced by passing 4 A of current for 1 hour?",
+      "options": {
+        "A": "1440 C",
+        "B": "3600 C",
+        "C": "14400 C",
+        "D": "144 C"
+      },
+      "correct_answer": "C",
+      "explanation": "Charge (Q) = Current (I) * Time (t in seconds). 1 hour = 3600 seconds. Q = 4 A * 3600 s = 14,400 Coulombs."
+    },
+    {
+      "id": "CHM075",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "Ions are charged ___________?",
+      "options": {
+        "A": "electrons",
+        "B": "protons",
+        "C": "atoms",
+        "D": "cations"
+      },
+      "correct_answer": "C",
+      "explanation": "An ion is simply an atom (or molecule) that has gained or lost electrons, giving it a net positive or negative charge."
+    },
+    {
+      "id": "CHM076",
+      "difficulty": "all",
+      "topic": "Electrochemistry",
+      "question": "Reduction occurs at the ___________?",
+      "options": {
+        "A": "anode",
+        "B": "electrode",
+        "C": "cathode",
+        "D": "electrolyte"
+      },
+      "correct_answer": "C",
+      "explanation": "Remember the mnemonic 'RED CAT' and 'AN OX'. REDuction always occurs at the CAThode, and OXidation always occurs at the ANode."
+    },
+    {
+      "id": "CHM077",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "What is a chemical reaction?",
+      "options": {
+        "A": "Interaction between reactants to produce a product.",
+        "B": "Separation of an element into atoms.",
+        "C": "Physical change of state.",
+        "D": "None of the above."
+      },
+      "correct_answer": "A",
+      "explanation": "A chemical reaction happens when reactants interact, breaking old chemical bonds and forming new ones to create an entirely new substance (the product)."
+    },
+    {
+      "id": "CHM078",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "According to Dalton's atomic theory, what happens to atoms in a chemical reaction?",
+      "options": {
+        "A": "Atoms are created.",
+        "B": "Atoms change their mass.",
+        "C": "Atoms are rearranged, but not created or destroyed.",
+        "D": "Atoms are destroyed."
+      },
+      "correct_answer": "C",
+      "explanation": "Dalton stated the Law of Conservation of Mass: in a chemical reaction, atoms are merely rearranged. They are never created or destroyed."
+    },
+    {
+      "id": "CHM079",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "Who was the first person to discover and develop the concept of the atom?",
+      "options": {
+        "A": "John Dalton",
+        "B": "J.J. Thomson",
+        "C": "Democritus",
+        "D": "Ernest Rutherford"
+      },
+      "correct_answer": "C",
+      "explanation": "The ancient Greek philosopher Democritus first proposed that matter is made of indivisible particles he called 'atomos'."
+    },
+    {
+      "id": "CHM080",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "What is the Rutherford atomic model also known as?",
+      "options": {
+        "A": "Cloud model",
+        "B": "Plum pudding model",
+        "C": "Bohr model",
+        "D": "Planetary model"
+      },
+      "correct_answer": "D",
+      "explanation": "It is called the Planetary Model because Rutherford described electrons orbiting a dense, positive nucleus much like planets orbit the sun."
+    },
+    {
+      "id": "CHM081",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "Which subatomic particle is found in the nucleus of an atom?",
+      "options": {
+        "A": "Protons",
+        "B": "Electrons",
+        "C": "Neutrinos",
+        "D": "Positrons"
+      },
+      "correct_answer": "A",
+      "explanation": "The nucleus contains protons (positive) and neutrons (neutral). Electrons orbit outside the nucleus."
+    },
+    {
+      "id": "CHM082",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "What determines the atomic number of an atom?",
+      "options": {
+        "A": "Number of neutrons",
+        "B": "Number of protons",
+        "C": "Number of electrons",
+        "D": "Atomic mass"
+      },
+      "correct_answer": "B",
+      "explanation": "The atomic number (Z) is strictly defined by the number of protons in the nucleus of an atom. It gives an element its identity."
+    },
+    {
+      "id": "CHM083",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "Which scientist discovered the nucleus of an atom?",
+      "options": {
+        "A": "Democritus",
+        "B": "John Dalton",
+        "C": "J.J. Thomson",
+        "D": "Ernest Rutherford"
+      },
+      "correct_answer": "D",
+      "explanation": "Ernest Rutherford discovered the nucleus using his famous Gold Foil experiment, proving atoms have a dense, positive center."
+    },
+    {
+      "id": "CHM084",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "What is the atomicity of a monoatomic element?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "correct_answer": "A",
+      "explanation": "Atomicity is the number of atoms present in a single molecule of an element. 'Mono' means one, so it has an atomicity of 1 (like Neon)."
+    },
+    {
+      "id": "CHM085",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "What is the primary factor that determines the chemical behavior of an atom?",
+      "options": {
+        "A": "Number of protons",
+        "B": "Number of electrons",
+        "C": "Number of neutrons",
+        "D": "Atomic mass"
+      },
+      "correct_answer": "B",
+      "explanation": "While protons define the element, it is the number and arrangement of valence ELECTRONS that dictate how an atom bonds and reacts chemically."
+    },
+    {
+      "id": "CHM086",
+      "difficulty": "all",
+      "topic": "Chemical Bonding",
+      "question": "Which type of bonding involves the sharing of electrons between atoms?",
+      "options": {
+        "A": "Ionic bonding",
+        "B": "Covalent bonding",
+        "C": "Metallic bonding",
+        "D": "Hydrogen bonding"
+      },
+      "correct_answer": "B",
+      "explanation": "Covalent bonding occurs when non-metal atoms share pairs of valence electrons to achieve a full, stable outer shell."
+    },
+    {
+      "id": "CHM087",
+      "difficulty": "all",
+      "topic": "Stoichiometry",
+      "question": "What is the relative atomic mass of an element with isotopic forms 39Y and 40Y in a ratio of 3:2 respectively?",
+      "options": {
+        "A": "39.4",
+        "B": "40.2",
+        "C": "39.0",
+        "D": "40.5"
+      },
+      "correct_answer": "A",
+      "explanation": "Calculation: [(3 * 39) + (2 * 40)] / (3+2) = (117 + 80) / 5 = 197 / 5 = 39.4."
+    },
+    {
+      "id": "CHM088",
+      "difficulty": "all",
+      "topic": "Stoichiometry",
+      "question": "What is the empirical formula of a compound containing 81.8% carbon and 18.2% hydrogen?",
+      "options": {
+        "A": "C3H8",
+        "B": "CH4",
+        "C": "C2H5Cl",
+        "D": "CH2"
+      },
+      "correct_answer": "A",
+      "explanation": "Divide by atomic mass: C = 81.8/12 = 6.81. H = 18.2/1 = 18.2. Divide by smallest (6.81): C=1, H=2.67. Multiply by 3 to get whole numbers: C3H8."
+    },
+    {
+      "id": "CHM089",
+      "difficulty": "all",
+      "topic": "Structure of Solids",
+      "question": "Which type of solid has a highly ordered and repeating arrangement of atoms, ions, or molecules?",
+      "options": {
+        "A": "Amorphous solid",
+        "B": "Polycrystalline solid",
+        "C": "Crystalline solid",
+        "D": "Liquid crystal"
+      },
+      "correct_answer": "C",
+      "explanation": "Crystalline solids (like diamonds or salt) have a highly regular, repeating 3D geometric arrangement of particles called a crystal lattice."
+    },
+    {
+      "id": "CHM090",
+      "difficulty": "all",
+      "topic": "Intermolecular Forces",
+      "question": "Which type of intermolecular force is responsible for the high boiling point of water?",
+      "options": {
+        "A": "London dispersion forces",
+        "B": "Dipole-dipole moment",
+        "C": "Hydrogen bonding",
+        "D": "Ion-dipole interaction"
+      },
+      "correct_answer": "C",
+      "explanation": "Hydrogen bonding between the hydrogen of one water molecule and the highly electronegative oxygen of another creates unusually strong attractions."
+    },
+    {
+      "id": "CHM091",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "What is the basic unit of matter in chemistry?",
+      "options": {
+        "A": "Molecule",
+        "B": "Atom",
+        "C": "Proton",
+        "D": "Neutron"
+      },
+      "correct_answer": "B",
+      "explanation": "The atom is the fundamental building block of matter that retains the specific properties of a chemical element."
+    },
+    {
+      "id": "CHM092",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "Which of the following is a diatomic element?",
+      "options": {
+        "A": "Carbon",
+        "B": "Helium",
+        "C": "Oxygen",
+        "D": "Sodium"
+      },
+      "correct_answer": "C",
+      "explanation": "Oxygen naturally exists as O2, meaning two oxygen atoms are covalently bonded together to form a stable molecule. Hence, it is diatomic."
+    },
+    {
+      "id": "CHM093",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "What is the atomic mass of an atom with 92 protons and 143 neutrons?",
+      "options": {
+        "A": "235",
+        "B": "92",
+        "C": "143",
+        "D": "235.4"
+      },
+      "correct_answer": "A",
+      "explanation": "The atomic mass number is simply the sum of protons and neutrons in the nucleus. 92 + 143 = 235."
+    },
+    {
+      "id": "CHM094",
+      "difficulty": "all",
+      "topic": "Electronic Configuration",
+      "question": "What is the electron configuration of Fe (Iron) with atomic number 26?",
+      "options": {
+        "A": "1s2 2s2 2p6 3s2 3p6 4s2 3d6",
+        "B": "1s2 2s2 2p6 3s2 3p6 4s2 4p6 4d2",
+        "C": "1s2 2s2 2p6 3s2 3p6 3d6 4s2",
+        "D": "1s2 2s2 2p6 3s2 3p6 4s2 3d7"
+      },
+      "correct_answer": "A",
+      "explanation": "Iron has 26 electrons. Fill the 1s, 2s, 2p, 3s, 3p, and 4s shells completely (20 electrons). The remaining 6 electrons go into the 3d shell."
+    },
+    {
+      "id": "CHM095",
+      "difficulty": "all",
+      "topic": "Intermolecular Forces",
+      "question": "Which of the following is NOT a type of intermolecular force?",
+      "options": {
+        "A": "Hydrogen bonding",
+        "B": "Ionic bonding",
+        "C": "London dispersion forces",
+        "D": "Dipole-dipole interactions"
+      },
+      "correct_answer": "B",
+      "explanation": "Ionic bonding is an INTRAmolecular force (it holds atoms together within a compound). The others are INTERmolecular forces (between different molecules)."
+    },
+    {
+      "id": "CHM096",
+      "difficulty": "all",
+      "topic": "Stoichiometry",
+      "question": "What is the molecular formula of a compound whose empirical formula is CH2O and molar mass is 180?",
+      "options": {
+        "A": "C2H4O2",
+        "B": "C3H6O3",
+        "C": "C6H12O6",
+        "D": "C5H10O5"
+      },
+      "correct_answer": "C",
+      "explanation": "Empirical mass of CH2O = 12 + 2(1) + 16 = 30. Molar mass / empirical mass = 180 / 30 = 6. Multiply the empirical formula by 6 to get C6H12O6."
+    },
+    {
+      "id": "CHM097",
+      "difficulty": "all",
+      "topic": "Structure of Solids",
+      "question": "Which type of solid has a disordered atomic arrangement?",
+      "options": {
+        "A": "Crystalline solid",
+        "B": "Polycrystalline solid",
+        "C": "Metallic solid",
+        "D": "Amorphous solid"
+      },
+      "correct_answer": "D",
+      "explanation": "Amorphous solids (like glass or plastic) lack a long-range ordered crystalline lattice structure."
+    },
+    {
+      "id": "CHM098",
+      "difficulty": "all",
+      "topic": "Periodicity",
+      "question": "Which property of elements increases from left to right across the periodic table?",
+      "options": {
+        "A": "Atomic radius",
+        "B": "Electronegativity",
+        "C": "Metallic character",
+        "D": "Ionization energy"
+      },
+      "correct_answer": "D",
+      "explanation": "Ionization energy increases across a period because the nuclear charge increases (more protons), pulling electrons tighter and making them harder to remove."
+    },
+    {
+      "id": "CHM099",
+      "difficulty": "all",
+      "topic": "Stoichiometry",
+      "question": "What is the molecular mass of carbon dioxide (CO2)?",
+      "options": {
+        "A": "22.0",
+        "B": "32.0",
+        "C": "44.0",
+        "D": "58.5"
+      },
+      "correct_answer": "C",
+      "explanation": "Carbon = 12. Oxygen = 16. Mass = 12 + (16 * 2) = 12 + 32 = 44.0 g/mol."
+    },
+    {
+      "id": "CHM100",
+      "difficulty": "all",
+      "topic": "Stoichiometry",
+      "question": "What is the empirical formula of an organic compound containing 40% carbon, 6.7% hydrogen, and 53.3% oxygen? (C = 12, H = 1, O = 16)",
+      "options": {
+        "A": "CH2O",
+        "B": "C2H4O2",
+        "C": "C3H6O3",
+        "D": "C4H8O4"
+      },
+      "correct_answer": "A",
+      "explanation": "Divide by mass: C=40/12=3.33. H=6.7/1=6.7. O=53.3/16=3.33. Divide by smallest (3.33): C=1, H=2, O=1. Empirical formula is CH2O."
+    },
+    {
+      "id": "CHM101",
+      "difficulty": "all",
+      "topic": "Electronic Configuration",
+      "question": "What is the electronic configuration of chlorine (Cl) with atomic number 17?",
+      "options": {
+        "A": "1s2 2s2 2p6 3s2 3p5",
+        "B": "1s2 2s2 2p6 3s1 3p6",
+        "C": "1s2 2s2 2p6 3s2 3p6",
+        "D": "1s2 2s2 2p6 3s2 3p4"
+      },
+      "correct_answer": "A",
+      "explanation": "Chlorine has 17 electrons. Follow the Aufbau chart: 1s(2) + 2s(2) + 2p(6) + 3s(2) + 3p(5) = 17."
+    },
+    {
+      "id": "CHM102",
+      "difficulty": "all",
+      "topic": "Periodicity",
+      "question": "Which property of elements decreases from left to right across the periodic table?",
+      "options": {
+        "A": "Atomic radius",
+        "B": "Electronegativity",
+        "C": "Metallic character",
+        "D": "Ionization energy"
+      },
+      "correct_answer": "A",
+      "explanation": "As you move from left to right across a period, protons are added to the nucleus. This increases the positive nuclear charge, which pulls the electron cloud closer, decreasing the radius."
+    },
+    {
+      "id": "CHM103",
+      "difficulty": "all",
+      "topic": "Intermolecular Forces",
+      "question": "Which type of bonding occurs between ions and partially charged molecules?",
+      "options": {
+        "A": "London dispersion forces",
+        "B": "Dipole-dipole interactions",
+        "C": "Hydrogen bonding",
+        "D": "Ion-dipole interactions"
+      },
+      "correct_answer": "D",
+      "explanation": "An ion-dipole force is an attractive force that results from the electrostatic attraction between an ion and a neutral molecule that has a dipole."
+    },
+    {
+      "id": "CHM104",
+      "difficulty": "all",
+      "topic": "Atomic Theory",
+      "question": "What is the atomic number of an atom with 16 protons?",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "24",
+        "D": "32"
+      },
+      "correct_answer": "B",
+      "explanation": "The atomic number of an element is exactly equal to the number of protons in its nucleus. 16 protons means the atomic number is 16 (Sulfur)."
+    },
+    {
+      "id": "CHM105",
+      "difficulty": "all",
+      "topic": "Electronic Configuration",
+      "question": "How many electrons can the third energy level (shell) of an atom hold according to the aufbau principle?",
+      "options": {
+        "A": "2",
+        "B": "8",
+        "C": "18",
+        "D": "32"
+      },
+      "correct_answer": "C",
+      "explanation": "The formula for max electrons in a shell is 2n^2. For the 3rd shell (n=3), it holds 2*(3)^2 = 2 * 9 = 18 electrons."
+    },
+    {
+      "id": "CHM106",
+      "difficulty": "all",
+      "topic": "Stoichiometry",
+      "question": "What is the relative molar mass of Na2CO3?",
+      "options": {
+        "A": "105.99 g/mol",
+        "B": "122.99 g/mol",
+        "C": "134.99 g/mol",
+        "D": "156.99 g/mol"
+      },
+      "correct_answer": "A",
+      "explanation": "Na2CO3 = (23 * 2) + 12 + (16 * 3) = 46 + 12 + 48 = 106.0 g/mol."
+    },
+    {
+      "id": "CHM107",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "What is the state of matter in which particles are far apart, fast-moving, and not organized in any particular way?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correct_answer": "C",
+      "explanation": "Gas particles have high kinetic energy and very weak intermolecular forces, allowing them to move randomly and spread far apart."
+    },
+    {
+      "id": "CHM108",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "Which gas is commonly used to fill balloons to make them float?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon dioxide",
+        "C": "Nitrogen",
+        "D": "Helium"
+      },
+      "correct_answer": "D",
+      "explanation": "Helium is an incredibly light, inert noble gas. Because it is much less dense than the surrounding air, it causes balloons to float via buoyancy."
+    },
+    {
+      "id": "CHM109",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "What property allows gases to fill the available volume within a container?",
+      "options": {
+        "A": "Viscosity",
+        "B": "Compressibility",
+        "C": "Expansibility",
+        "D": "Diffusibility"
+      },
+      "correct_answer": "C",
+      "explanation": "Expansibility refers to the ability of a gas to expand and completely fill any container it is placed in, due to the high kinetic energy of its particles."
+    },
+    {
+      "id": "CHM110",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "Which gas law describes the relationship between pressure and volume, assuming constant temperature and amount of gas?",
+      "options": {
+        "A": "Boyle's law",
+        "B": "Charles's law",
+        "C": "Ideal gas law",
+        "D": "Avogadro's law"
+      },
+      "correct_answer": "A",
+      "explanation": "Boyle's Law states that at a constant temperature, the pressure of a gas is inversely proportional to its volume (P1V1 = P2V2)."
+    },
+    {
+      "id": "CHM111",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "Which gas is a homonuclear triatomic gas?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Ozone",
+        "C": "Fluorine",
+        "D": "Neon"
+      },
+      "correct_answer": "B",
+      "explanation": "Ozone is O3. 'Homonuclear' means made of only one type of element. 'Triatomic' means it consists of exactly 3 atoms."
+    },
+    {
+      "id": "CHM112",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "According to the ideal gas law, what is directly proportional to the number of moles of a gas?",
+      "options": {
+        "A": "Pressure",
+        "B": "Volume",
+        "C": "Temperature",
+        "D": "Ideal gas constant"
+      },
+      "correct_answer": "B",
+      "explanation": "According to Avogadro's Law (a component of the ideal gas law), the volume of a gas is directly proportional to the number of moles of gas present (at constant T and P)."
+    },
+    {
+      "id": "CHM113",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "Which process involves the escape of gas molecules through a small opening or a porous barrier?",
+      "options": {
+        "A": "Compression",
+        "B": "Expansion",
+        "C": "Diffusion",
+        "D": "Effusion"
+      },
+      "correct_answer": "D",
+      "explanation": "Effusion is the specific term for a gas escaping through a microscopic hole into a vacuum or a lower pressure area."
+    },
+    {
+      "id": "CHM114",
+      "difficulty": "all",
+      "topic": "Kinetic Theory",
+      "question": "What does the kinetic theory of matter describe?",
+      "options": {
+        "A": "Behavior of gases only",
+        "B": "Behavior of solids only",
+        "C": "Behavior of all states of matter",
+        "D": "Behavior of liquids only"
+      },
+      "correct_answer": "C",
+      "explanation": "The kinetic theory explains the macroscopic properties of ALL states of matter (solids, liquids, gases) based on the microscopic behavior and movement of their particles."
+    },
+    {
+      "id": "CHM115",
+      "difficulty": "all",
+      "topic": "Kinetic Theory",
+      "question": "In which state of matter do particles vibrate around fixed positions?",
+      "options": {
+        "A": "Gas",
+        "B": "Liquid",
+        "C": "Solid",
+        "D": "Plasma"
+      },
+      "correct_answer": "C",
+      "explanation": "In a solid, intermolecular forces are strong enough to lock particles in place. They can only vibrate, not flow or translate."
+    },
+    {
+      "id": "CHM116",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "Which gas is commonly used to inflate airbags in cars?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Oxygen",
+        "C": "Carbon dioxide",
+        "D": "Helium"
+      },
+      "correct_answer": "A",
+      "explanation": "Airbags inflate due to the rapid decomposition of sodium azide (NaN3), which produces a massive amount of Nitrogen gas (N2) almost instantly."
+    },
+    {
+      "id": "CHM117",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "The particles of an ideal gas are assumed to:",
+      "options": {
+        "A": "Have finite volume",
+        "B": "Experience strong intermolecular forces",
+        "C": "Move randomly and independently",
+        "D": "Undergo perfectly inelastic collisions"
+      },
+      "correct_answer": "C",
+      "explanation": "The Kinetic Molecular Theory assumes ideal gas particles are in constant, random, straight-line motion and do not interact or attract one another."
+    },
+    {
+      "id": "CHM118",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "Which gas law describes the relationship between volume and temperature, assuming constant pressure and amount of gas?",
+      "options": {
+        "A": "Boyle's law",
+        "B": "Charles's law",
+        "C": "Ideal gas law",
+        "D": "Avogadro's law"
+      },
+      "correct_answer": "B",
+      "explanation": "Charles's Law states that the volume of a gas is directly proportional to its absolute temperature (in Kelvin) when pressure is held constant."
+    },
+    {
+      "id": "CHM119",
+      "difficulty": "all",
+      "topic": "Gases",
+      "question": "What allows gas particles to rapidly mix with one another?",
+      "options": {
+        "A": "Compressibility",
+        "B": "Expansibility",
+        "C": "Diffusibility",
+        "D": "Low density"
+      },
+      "correct_answer": "C",
+      "explanation": "Diffusion is the process by which gas molecules spontaneously mix and spread out uniformly due to their rapid, random kinetic motion."
+    },
+    {
+      "id": "CHM120",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "What conditions are necessary for a chemical reaction to occur?",
+      "options": {
+        "A": "Proper orientation and sufficient energy",
+        "B": "Proper orientation only",
+        "C": "Sufficient energy only",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "Collision theory dictates that reactant molecules must physically collide, but they must do so with enough energy (activation energy) AND in the correct geometric orientation."
+    },
+    {
+      "id": "CHM121",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "What is activation energy?",
+      "options": {
+        "A": "The energy released during a reaction",
+        "B": "The energy required to start a reaction",
+        "C": "The energy produced at equilibrium",
+        "D": "The energy stored in reactants"
+      },
+      "correct_answer": "B",
+      "explanation": "Activation energy is the initial 'spark' or energy hump that reactants must overcome before they can transform into products."
+    },
+    {
+      "id": "CHM122",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "How is the rate of reaction measured?",
+      "options": {
+        "A": "Change in concentration of products only",
+        "B": "Change in concentration of reactants or products over time",
+        "C": "Change in volume of products",
+        "D": "Change in temperature"
+      },
+      "correct_answer": "B",
+      "explanation": "Reaction rate is calculated by measuring how fast the concentration of a reactant decreases, or how fast the concentration of a product increases, over a given time period."
+    },
+    {
+      "id": "CHM123",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "What factor affects the rate of reaction by increasing the kinetic energy of molecules?",
+      "options": {
+        "A": "Changes in temperature",
+        "B": "Changes in concentration",
+        "C": "Addition of a catalyst",
+        "D": "Changes in volume"
+      },
+      "correct_answer": "A",
+      "explanation": "Heat is thermal energy. Increasing the temperature directly increases the kinetic energy of the molecules, making them move faster and collide harder."
+    },
+    {
+      "id": "CHM124",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "How does a catalyst affect the rate of reaction?",
+      "options": {
+        "A": "Increases activation energy",
+        "B": "Decreases activation energy",
+        "C": "Increases concentration of reactants",
+        "D": "Decreases temperature"
+      },
+      "correct_answer": "B",
+      "explanation": "A catalyst provides an entirely different chemical pathway for the reaction to occur, one that requires a much lower activation energy."
+    },
+    {
+      "id": "CHM125",
+      "difficulty": "all",
+      "topic": "Rate of Reaction",
+      "question": "If a reaction is first order with respect to a reactant, how does its rate depend on concentration?",
+      "options": {
+        "A": "Directly proportional",
+        "B": "Inversely proportional",
+        "C": "Square of the concentration",
+        "D": "Cubic of the concentration"
+      },
+      "correct_answer": "A",
+      "explanation": "First-order kinetics means Rate = k[Reactant]^1. If you double the concentration, the rate doubles exactly. They are directly proportional."
+    },
+    {
+      "id": "CHM126",
+      "difficulty": "all",
+      "topic": "Equilibrium",
+      "question": "What is chemical equilibrium?",
+      "options": {
+        "A": "A state where reactants are completely converted to products",
+        "B": "A state where forward and reverse reactions proceed at equal rates",
+        "C": "A state where only reactants are present",
+        "D": "A state where products are consumed by reverse reaction"
+      },
+      "correct_answer": "B",
+      "explanation": "Equilibrium is dynamic. The reaction doesn't stop; rather, products turn back into reactants at the exact same speed that reactants turn into products."
+    },
+    {
+      "id": "CHM127",
+      "difficulty": "all",
+      "topic": "Equilibrium",
+      "question": "What does the equilibrium constant (Kc) represent?",
+      "options": {
+        "A": "The rate of the forward reaction",
+        "B": "The concentration of reactants only",
+        "C": "The ratio of product concentrations to reactant concentrations",
+        "D": "The activation energy of the reaction"
+      },
+      "correct_answer": "C",
+      "explanation": "Kc is the mathematical ratio of products over reactants at equilibrium. A high Kc means lots of products; a low Kc means lots of reactants."
+    },
+    {
+      "id": "CHM128",
+      "difficulty": "all",
+      "topic": "Equilibrium",
+      "question": "When does a reaction have a large Kc value?",
+      "options": {
+        "A": "When equilibrium contains more products than reactants",
+        "B": "When equilibrium contains more reactants than products",
+        "C": "When the forward reaction rate is slow",
+        "D": "When the reverse reaction rate is fast"
+      },
+      "correct_answer": "A",
+      "explanation": "Since Kc = [Products]/[Reactants], a large Kc mathematical value means the numerator (products) must be much larger than the denominator."
+    },
+    {
+      "id": "CHM129",
+      "difficulty": "all",
+      "topic": "Equilibrium",
+      "question": "Which of the following factors does NOT affect equilibrium?",
+      "options": {
+        "A": "Concentration",
+        "B": "Volume",
+        "C": "Temperature",
+        "D": "Addition of a catalyst"
+      },
+      "correct_answer": "D",
+      "explanation": "A catalyst speeds up both the forward and reverse reactions equally. It gets you to equilibrium faster, but it doesn't change the final balance (position)."
+    },
+    {
+      "id": "CHM130",
+      "difficulty": "all",
+      "topic": "Equilibrium",
+      "question": "What principle states that when a stress is placed on a system at equilibrium, the equilibrium will shift to relieve the stress?",
+      "options": {
+        "A": "Boyle's Law",
+        "B": "Le Chatelier's Principle",
+        "C": "Avogadro's Principle",
+        "D": "Charles's Law"
+      },
+      "correct_answer": "B",
+      "explanation": "Henri Le Chatelier stated that if you change conditions (stress) like pressure or temp, the chemical system will shift left or right to counteract that change."
+    },
+    {
+      "id": "CHM131",
+      "difficulty": "all",
+      "topic": "Thermochemistry",
+      "question": "Thermochemistry focuses on the relationship between:",
+      "options": {
+        "A": "Pressure and chemical reactions",
+        "B": "Heat and chemical reactions",
+        "C": "Temperature and chemical reactions",
+        "D": "Volume and chemical reactions"
+      },
+      "correct_answer": "B",
+      "explanation": "Thermo = Heat. Thermochemistry is the specific study of the heat energy absorbed or released during chemical reactions."
+    },
+    {
+      "id": "CHM132",
+      "difficulty": "all",
+      "topic": "Thermochemistry",
+      "question": "An open system exchanges:",
+      "options": {
+        "A": "Energy only",
+        "B": "Matter only",
+        "C": "Energy and matter",
+        "D": "Neither energy nor matter"
+      },
+      "correct_answer": "C",
+      "explanation": "An open system (like a boiling pot with no lid) allows both heat (energy) and steam (matter) to escape freely into the surroundings."
+    },
+    {
+      "id": "CHM133",
+      "difficulty": "all",
+      "topic": "Thermochemistry",
+      "question": "Enthalpy is the total energy content of a:",
+      "options": {
+        "A": "Closed system",
+        "B": "Isolated system",
+        "C": "Thermodynamic system",
+        "D": "Chemical reaction"
+      },
+      "correct_answer": "C",
+      "explanation": "Enthalpy (H) represents the total heat content of a thermodynamic system at constant pressure."
+    },
+    {
+      "id": "CHM134",
+      "difficulty": "all",
+      "topic": "Thermochemistry",
+      "question": "Entropy is a measure of:",
+      "options": {
+        "A": "Energy content",
+        "B": "Disorder",
+        "C": "Temperature",
+        "D": "Pressure"
+      },
+      "correct_answer": "B",
+      "explanation": "Entropy (S) measures the amount of chaos, randomness, or disorder in a system. The universe naturally tends toward higher entropy."
+    },
+    {
+      "id": "CHM135",
+      "difficulty": "all",
+      "topic": "Thermochemistry",
+      "question": "The first law of thermodynamics states that the energy of the universe is:",
+      "options": {
+        "A": "Increasing",
+        "B": "Decreasing",
+        "C": "Constant",
+        "D": "Zero"
+      },
+      "correct_answer": "C",
+      "explanation": "This is the Law of Conservation of Energy. Energy can change forms (like chemical to heat), but the total amount in the universe never changes."
+    },
+    {
+      "id": "CHM136",
+      "difficulty": "all",
+      "topic": "Thermochemistry",
+      "question": "Which reaction absorbs energy from the surrounding?",
+      "options": {
+        "A": "Combustion",
+        "B": "Neutralization",
+        "C": "Respiration",
+        "D": "Photosynthesis"
+      },
+      "correct_answer": "D",
+      "explanation": "Photosynthesis is heavily endothermic. Plants must absorb massive amounts of solar energy (light) to convert CO2 and water into glucose."
+    },
+    {
+      "id": "CHM137",
+      "difficulty": "all",
+      "topic": "Thermochemistry",
+      "question": "According to Hess's Law, the heat of reaction remains the same regardless of:",
+      "options": {
+        "A": "Pressure changes",
+        "B": "Temperature changes",
+        "C": "Catalyst presence",
+        "D": "Reaction pathway"
+      },
+      "correct_answer": "D",
+      "explanation": "Hess's Law states that total enthalpy change depends only on the initial and final states, not on how many steps or pathways the reaction takes."
+    },
+    {
+      "id": "CHM138",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "Which of the following is not a property of acids?",
+      "options": {
+        "A": "Turns blue litmus paper red",
+        "B": "Has a bitter taste",
+        "C": "Reacts with metals to produce hydrogen gas",
+        "D": "pH is usually less than 7"
+      },
+      "correct_answer": "B",
+      "explanation": "Acids have a distinctly SOUR taste (like lemons). Bases have a bitter taste (like soap)."
+    },
+    {
+      "id": "CHM139",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "Which concept of acids and bases defines acids as proton donors?",
+      "options": {
+        "A": "Arrhenius concept",
+        "B": "Bronsted-Lowry concept",
+        "C": "Lewis concept",
+        "D": "Dalton's concept"
+      },
+      "correct_answer": "B",
+      "explanation": "Johannes Nicolaus Brønsted and Thomas Martin Lowry independently defined an acid as a substance that can donate a proton (H+ ion)."
+    },
+    {
+      "id": "CHM140",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "Which concept of acids and bases involves the donation of electron pairs?",
+      "options": {
+        "A": "Arrhenius concept",
+        "B": "Bronsted-Lowry concept",
+        "C": "Lewis concept",
+        "D": "Dalton's concept"
+      },
+      "correct_answer": "C",
+      "explanation": "Gilbert N. Lewis defined acids as electron-pair acceptors, and bases as electron-pair donors. This is the broadest definition."
+    },
+    {
+      "id": "CHM141",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "What is the product when an acid reacts with a metal carbonate?",
+      "options": {
+        "A": "Salt and water",
+        "B": "Salt and carbon dioxide",
+        "C": "Salt, water and carbon dioxide",
+        "D": "Salt and hydrogen gas"
+      },
+      "correct_answer": "C",
+      "explanation": "Acid + Metal Carbonate \u2192 Salt + Water + Carbon Dioxide gas. (This is why baking soda and vinegar bubble vigorously!)."
+    },
+    {
+      "id": "CHM142",
+      "difficulty": "all",
+      "topic": "Acids & Bases",
+      "question": "What is the basicity of a diprotic acid?",
+      "options": {
+        "A": "It produces one mole of H+ ions per mole of acid",
+        "B": "It produces two moles of H+ ions per mole of acid",
+        "C": "It produces three moles of H+ ions per mole of acid",
+        "D": "It does not produce H+ ions"
+      },
+      "correct_answer": "B",
+      "explanation": "Diprotic means 'two protons'. A diprotic acid, like Sulfuric acid (H2SO4), can release exactly two H+ ions per molecule."
+    }
+  ]
+}
